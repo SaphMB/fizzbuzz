@@ -8,6 +8,18 @@ The Fizzbuzz programme can be passed a number. Depending on the number that has 
 ## How to use ##
 
 ```shell
-irb
-require './fizzbuzz.rb'
+# Run the ruby environment
+$ irb
+$ require './lib/fizzbuzz.rb'
 ```
+
+## Running tests
+
+ ```
+ rspec
+ ```
+
+## Technologies
+
+* Ruby
+* RSpec
